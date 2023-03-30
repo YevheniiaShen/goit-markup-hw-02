@@ -1,0 +1,15 @@
+header {
+  background-color: #ffffff;
+}
+
+p {
+  size: 16px;
+}
+
+.filter-buttons {
+  background-color: #f4f4fd;
+}
+
+.filter-buttons:hover {
+  background-color: #404bbf;
+}
