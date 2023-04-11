@@ -63,6 +63,16 @@ address{
   color: var(--navy-blue-color);
 }
 
+address{
+  font-style: normal;
+}
+
+.contact-list:hover,
+.contact-list:focus{
+color: var(--ocean-color);
+}
+
+
 .navigation-link:hover,
 .navigation-link:focus {
 color: var(--ocean-color);
@@ -85,6 +95,7 @@ body {
   line-height: 24px;
   letter-spacing: 0.02em;
   color: #434455;
+  background-color: var(--white-color);
 }
 
 
@@ -96,6 +107,8 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: var(--navy-blue-color);
+  line-height: 1.11;
+  text-align: center;
 }
 
 .heading{
@@ -123,6 +136,10 @@ body {
   height: 56px;
   font-family: inherit;
   cursor: pointer;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
 }
 
 .button-one:hover,
@@ -213,4 +230,8 @@ top: 0px;
 background-color: var(--ocean-color);
 color: white;
 letter-spacing: 0.04em;
+}
+
+.color-list{
+  color: var(--slate-color);
 }
