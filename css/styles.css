@@ -122,6 +122,7 @@ body {
   width: 169px;
   height: 56px;
   font-family: inherit;
+  cursor: pointer;
 }
 
 .button-one:hover,
@@ -203,6 +204,8 @@ top: 0px;
   letter-spacing: 0.04em;
   padding: 12px 24px;
   font-family: inherit;
+  cursor: pointer;
+  
 }
 
 .buttons-menu:hover,
