@@ -162,9 +162,7 @@ body {
   color: var(--slate-color);
 }
 
-.second-list{
-  text-decoration: none;
-}
+
 .list-four{
   display: flex;
   flex-direction: column;
