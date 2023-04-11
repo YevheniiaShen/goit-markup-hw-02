@@ -87,6 +87,11 @@ color: var(--ocean-color);
   font-style: normal;
 }
 
+.contact{
+  font-style: normal;
+  text-decoration: none;
+}
+
 /* Body */
 body {
   font-family: var(--main-font);
