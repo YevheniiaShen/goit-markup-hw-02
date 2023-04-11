@@ -88,10 +88,9 @@ color: var(--ocean-color);
   font-style: normal;
 }
 
-.contact link{
+.contact{
   font-style: normal;
   text-decoration: none;
-  color: var(--navy-blue-color);
 }
 
 /* Body */
