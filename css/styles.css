@@ -61,11 +61,10 @@ address{
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--navy-blue-color);
+  text-decoration: none;
+
 }
 
-address{
-  font-style: normal;
-}
 
 .contact-list:hover,
 .contact-list:focus{
@@ -85,7 +84,7 @@ color: var(--ocean-color);
 
 .contact-list{
   color: var(--slate-color);
- 
+  font-style: normal;
 }
 
 /* Body */
@@ -95,7 +94,7 @@ body {
   line-height: 24px;
   letter-spacing: 0.02em;
   color: #434455;
-  background-color: var(--white-color);
+  background-color: #FFFFFF;
 }
 
 
