@@ -119,7 +119,7 @@ body {
 .title-list {
   font-weight: 500;
   font-size: 20px;
-  line-height: 1.2;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--navy-blue-color);
 }
@@ -131,7 +131,9 @@ body {
   color: var(--slate-color);
   font-weight: 400;
 }
-
+.card-list{
+  letter-spacing: 0.02em;
+}
 .title-sections {
   font-weight: 700;
   font-size: 36px;
