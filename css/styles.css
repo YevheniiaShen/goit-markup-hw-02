@@ -18,6 +18,12 @@
   --secondary-font: "Raleway", sans-serif;
 }
 
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 /* Reset - скидання */
 .link{
   color: currentColor;
