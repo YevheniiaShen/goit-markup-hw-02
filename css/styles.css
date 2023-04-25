@@ -133,6 +133,7 @@ body {
 }
 .card-list{
   letter-spacing: 0.02em;
+  line-height: 1.5;
 }
 .title-sections {
   font-weight: 700;
